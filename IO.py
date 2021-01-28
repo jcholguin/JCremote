@@ -5,7 +5,7 @@ Created on Sun Jan 17 22:21:49 2021
 
 @author: juancarlosholguinsotomayor
 """
-
+variable1 = []
 from io import open
 fichero2 = open('fichero.txt', 'w')
 fichero = open('fichero.txt', 'r')
